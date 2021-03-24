@@ -1,6 +1,6 @@
-Hello everyone: 
+Hello, I am Glen Martin
 
-I am Glen Martin: I am currenly a senior economics major at Fresno State. 
+I am currenly a senior economics major at Fresno State. 
 I want to become an econometrician who utilizes machine learning for business and economics problems.
 
 I am currently learning about Machine Learning (introductory stuff), and SQL.
